@@ -8,7 +8,7 @@
       <link href="/2019/12/13/MY-New-Post/"/>
       <url>/2019/12/13/MY-New-Post/</url>
       
-        <content type="html"><![CDATA[<p>This is my blog</p><h2 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h2><h3 id="Test-1"><a href="#Test-1" class="headerlink" title="Test"></a>Test</h3><pre><code class="bash">$ls </code></pre>]]></content>
+        <content type="html"><![CDATA[<p>This is my blog</p><h2 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h2><h3 id="Test-1"><a href="#Test-1" class="headerlink" title="Test"></a>Test</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line"><span class="variable">$ls</span></span></pre></td></tr></table></figure>]]></content>
       
       
       
